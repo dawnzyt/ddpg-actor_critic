@@ -1,7 +1,7 @@
 # Introduction
 
-A simple implementing of deep deterministic policy gradient (DDPG) and Actor Critic (AC) with pytorch, both model-free,
-off-policy algorithm for learning continous actions.
+A simple implementation of deep deterministic policy gradient (DDPG) and Actor Critic (AC) with pytorch, both model-free,
+off-policy algorithms for learning continous actions.
 
 The original DDPG paper link: [《Continuous control with deep reinforcement learning》](https://arxiv.org/abs/1509.02971).
 
